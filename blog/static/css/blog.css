@@ -22,14 +22,14 @@ h1, h2, h3, h4 {
     font-family: 'Lobster', cursive;
 }
 
-.btn-edit {
+.btn-delete, .btn-publish, .btn-edit {
 	float: right;
+    margin-left: 5px;
 }
 
 .date {
     color: #828282;
     float: right;
-    padding: 8px 5px;
 }
 
 .save {
@@ -55,3 +55,20 @@ h1, h2, h3, h4 {
 .post h1, .post h1 a, .post h1 a:visited {
     color: #000000;
 }
+
+.comment {
+    margin: 20px 0px 20px 20px;
+}
+
+.form-login {
+    text-align: center;
+}
+
+.form-login table {
+    margin: auto;
+}
+
+.form-login table tr td {
+    padding-bottom: 15px;
+}
+

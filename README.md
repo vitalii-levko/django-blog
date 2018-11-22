@@ -29,29 +29,34 @@ Click on any post title to look at single post:
 
 ![details](screenshots/02.png)
 
-Login as `admin` using password `q1w2e3r4`:
-```javascript
-127.0.0.1:8000/admin
-```
+Click on 'Add comment' to send comment for moderation:
 
-![auth](screenshots/03.png)
+![comment](screenshots/03.png)
 
-Admin panel looks like the follows:
+Click on the 'Lock' sign to login as `admin` using password `q1w2e3r4`:
 
-![admin](screenshots/04.png)
+![auth](screenshots/04.png)
 
-Switch to main page with admin privileges:
+Admin options looks like the follows:
 
-![privileges](screenshots/05.png)
+![admin](screenshots/05.png)
 
-Click plus sign to create new post:
+Switch to any post with admin edit, delete and approve privileges:
 
-![new](screenshots/06.png)
+![privileges](screenshots/06.png)
 
-Single post page now contains pencil sign to edit post:
+Click on the 'Pencil' sign to open post editor:
 
-![pencil](screenshots/07.png)
+![edit](screenshots/07.png)
 
-Click on it to open post editor:
+Click on the 'Draft' sign to list unpublished posts:
 
-![edit](screenshots/08.png)
+![draft](screenshots/08.png)
+
+Switch to any of draft posts to publish, edit or delete it:
+
+![publish](screenshots/09.png)
+
+And of course click on the 'Plus' sign to create new post:
+
+![new](screenshots/10.png)
